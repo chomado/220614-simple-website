@@ -9,12 +9,6 @@ body {
   color: var(--fontColor);
   font-family: helvetica;
 }
-ul {
-  font-family: helvetica;
-}
-li {
-  list-style: circle;
-}
 
 #msg {
   font-family: monospace;
