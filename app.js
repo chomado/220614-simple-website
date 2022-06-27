@@ -11,4 +11,5 @@ switcher.addEventListener('click', function () {
   } else {
     this.textContent = "Light";
   }
+  console.log("現在のクラス名：" + className);
 });
